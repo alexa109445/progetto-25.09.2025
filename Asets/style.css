@@ -1,0 +1,19 @@
+#HELLO{
+    text-align: center;
+    margin:0 auto;
+background-image: ;}
+    
+    #blocco-celeste{
+        margin:0 auto;
+        border: 3px solid rgb(76, 76, 179);
+        width: 350px;
+        height: 350px;
+background-color: rgb(76, 76, 179);
+    }
+    #puntini{
+        list-style: none;
+        color: beige;
+    }
+    #scritte{
+        color: brown;
+    }
