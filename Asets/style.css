@@ -1,7 +1,7 @@
 #HELLO{
     text-align: center;
     margin:0 auto;
-background-image: ;}
+background-image url("");}
     
     #blocco-celeste{
         margin:0 auto;
@@ -16,4 +16,7 @@ background-color: rgb(76, 76, 179);
     }
     #scritte{
         color: brown;
+    }
+    #mariorossi{
+        color:grey
     }
